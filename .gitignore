@@ -1,3 +1,5 @@
+# Start out with "bun" template for ".gitignore"
+
 # Logs
 logs
 *.log
